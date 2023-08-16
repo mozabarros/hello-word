@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 repositório criado para fazer a primeira atividade 
